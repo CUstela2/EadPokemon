@@ -8,9 +8,9 @@ public static class ProgramPoke
         charizard.Tipos.Add("Fogo");
         charizard.Tipos.Add("Voador");
 
-        charizard.Ataques.Add(new Ataque("Explosão de Fogo", "Fogo"));
-        charizard.Ataques.Add(new Ataque("FirePunch", "Meele"));
-        charizard.Ataques.Add(new Ataque("Lança chama", "Fogo"));
+        charizard.Ataques.Add(new Ataque("Peido fedido", "Fogo"));
+        charizard.Ataques.Add(new Ataque("Pataço", "Meele"));
+        charizard.Ataques.Add(new Ataque("Fogao", "Fogo"));
 
         charizard.ExibirInformacoes();
     }
