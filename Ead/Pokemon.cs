@@ -20,7 +20,7 @@ public class Pokemon
         Ataques = new List<Ataque>();
     }
 
-    public void ExibirInformacoes()
+    public void Apresentar()
     {
         Console.WriteLine($"Olá! Eu sou o {Nome}!");
         Console.WriteLine($"Peso: {Peso} kg");
