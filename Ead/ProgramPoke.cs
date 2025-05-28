@@ -12,7 +12,7 @@ public static class ProgramPoke
         charizard.Ataques.Add(new Ataque("Pataço", "Meele"));
         charizard.Ataques.Add(new Ataque("Fogao", "Fogo"));
 
-        charizard.ExibirInformacoes();
+        charizard.Apresentar();
     }
 }
 }
