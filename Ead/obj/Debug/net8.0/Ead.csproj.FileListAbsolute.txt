@@ -1,0 +1,14 @@
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\Ead.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\Ead.AssemblyInfoInputs.cache
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\Ead.AssemblyInfo.cs
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\Ead.csproj.CoreCompileInputs.cache
+C:\Users\426115624\Documents\Ead\bin\Debug\net8.0\Ead.exe
+C:\Users\426115624\Documents\Ead\bin\Debug\net8.0\Ead.deps.json
+C:\Users\426115624\Documents\Ead\bin\Debug\net8.0\Ead.runtimeconfig.json
+C:\Users\426115624\Documents\Ead\bin\Debug\net8.0\Ead.dll
+C:\Users\426115624\Documents\Ead\bin\Debug\net8.0\Ead.pdb
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\Ead.dll
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\refint\Ead.dll
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\Ead.pdb
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\Ead.genruntimeconfig.cache
+C:\Users\426115624\Documents\Ead\obj\Debug\net8.0\ref\Ead.dll
